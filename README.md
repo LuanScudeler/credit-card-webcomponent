@@ -11,8 +11,7 @@ the component can be used as a standalone component.
 
 ### For standalone usage:
 
-  - Add the below script tag inside the head tag of a webpage:
-    `<script src="./creditcard-input.js"></script>`
+  - Add the following script tag inside the head tag of a webpage: `<script src="./creditcard-input.js"></script>`
   - Insert the tag `<creditcard-input></creditcard-input>` anywhere in the body of the page
 
 ### For usage inside another application:
